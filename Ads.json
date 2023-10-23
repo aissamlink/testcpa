@@ -2,9 +2,9 @@
     "Ads": {
       "ClickCount":1,
       "PriorityBanner":"max",
-      "PriorityNative":"yandex",
-      "PriorityInterstitial":"yandex",
-      "PriorityInterstitialSplash":"yandex",
+      "PriorityNative":"max",
+      "PriorityInterstitial":"max",
+      "PriorityInterstitialSplash":"max",
       "ApplovinBanner":"872949233",
       "ApplovinNative":"948707424",
       "ApplovinInterstitial":"2387029470",
@@ -29,17 +29,17 @@
     },
     "AddOns":[
       {
-        "AddOnsName":"",
-        "AddOnImage":"",
-        "AddOnDescription":"",
+        "AddOnsName":"test",
+        "AddOnImage":"https://imgur.com/a/wvMgFH5",
+        "AddOnDescription":"jlnljnalnlknalsl",
         "AddOnDownloadLink":""
       }
       ],
      "Texture":[
       {
-        "TextureName":"",
-        "TextureImage":"",
-        "TextureDescription":"",
+        "TextureName":"tst",
+        "TextureImage":"https://imgur.com/a/wvMgFH5",
+        "TextureDescription":"akjbkalasl.am;km",
         "TextureDownloadLink":""
       }
       ] ,
