@@ -1,0 +1,54 @@
+{
+    "Ads": {
+      "ClickCount":1,
+      "PriorityBanner":"max",
+      "PriorityNative":"yandex",
+      "PriorityInterstitial":"yandex",
+      "PriorityInterstitialSplash":"yandex",
+      "ApplovinBanner":"872949233",
+      "ApplovinNative":"948707424",
+      "ApplovinInterstitial":"2387029470",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "YandexBanner":"R-M-DEMO-300x250",
+      "YandexIntersitial":"R-M-DEMO-interstitial",
+      "YandexNative":"R-M-DEMO-native-i"
+    },
+    "CpaItem":{
+      "ShowCpa":true,
+      "UseImageOrSpin":"wheel",
+      "WheelImage":"",
+      "LandingPage":"",
+      "CpaImage":"",
+      "WheelItem1":"",
+      "WheelItem2":"",
+      "WheelItem3":"",
+      "WheelItem4":"",
+      "WheelItem5":""
+    },
+    "AddOns":[
+      {
+        "AddOnsName":"",
+        "AddOnImage":"",
+        "AddOnDescription":"",
+        "AddOnDownloadLink":""
+      }
+      ],
+     "Texture":[
+      {
+        "TextureName":"",
+        "TextureImage":"",
+        "TextureDescription":"",
+        "TextureDownloadLink":""
+      }
+      ] ,
+      "Skin":[
+      {
+        "SKinName":"",
+        "SkinImage":"",
+        "SkinDownloadLink":""
+      }
+      ] 
+      
+  }
